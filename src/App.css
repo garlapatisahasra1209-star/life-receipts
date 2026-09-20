@@ -1537,3 +1537,37 @@ footer span {
     font-size: 38px;
   }
 }
+/* ================= ACCESSIBILITY ================= */
+
+button {
+  font: inherit;
+}
+
+button:focus-visible,
+a:focus-visible,
+input:focus-visible {
+  outline: 3px solid #e3b96a;
+  outline-offset: 4px;
+}
+
+.receipt-card,
+.connection-card {
+  border: none;
+  text-align: left;
+  font: inherit;
+  color: inherit;
+  cursor: pointer;
+}
+
+.receipt-card:hover,
+.connection-card:hover {
+  cursor: pointer;
+}
+
+.modal-close {
+  cursor: pointer;
+}
+
+.chapter-card button {
+  cursor: pointer;
+}
