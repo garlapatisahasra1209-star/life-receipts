@@ -1,0 +1,84 @@
+[
+  {
+    "id": 1,
+    "type": "Music",
+    "title": "Late Night Playlist",
+    "description": "A playlist played during a late-night session.",
+    "date": "2026-09-12",
+    "time": "23:48",
+    "location": "Hyderabad"
+  },
+  {
+    "id": 2,
+    "type": "Place",
+    "title": "Tank Bund Visit",
+    "description": "A place visited during an evening outing.",
+    "date": "2026-09-12",
+    "time": "18:20",
+    "location": "Hyderabad"
+  },
+  {
+    "id": 3,
+    "type": "Photo",
+    "title": "Sunset Photo",
+    "description": "A sunset photo captured during the evening.",
+    "date": "2026-09-12",
+    "time": "18:35",
+    "location": "Hyderabad"
+  },
+  {
+    "id": 4,
+    "type": "Purchase",
+    "title": "Cafe Purchase",
+    "description": "Coffee and snacks purchased during the outing.",
+    "date": "2026-09-12",
+    "time": "18:42",
+    "location": "Hyderabad",
+    "amount": 240
+  },
+  {
+    "id": 5,
+    "type": "Message",
+    "title": "Saved Message",
+    "description": "A message saved during the evening.",
+    "date": "2026-09-12",
+    "time": "19:05",
+    "location": "Hyderabad"
+  },
+  {
+    "id": 6,
+    "type": "Movie",
+    "title": "Weekend Movie",
+    "description": "A movie watched during the weekend.",
+    "date": "2026-09-13",
+    "time": "21:15",
+    "location": "Hyderabad"
+  },
+  {
+    "id": 7,
+    "type": "Music",
+    "title": "Morning Playlist",
+    "description": "Music played during a morning routine.",
+    "date": "2026-09-13",
+    "time": "08:30",
+    "location": "Hyderabad"
+  },
+  {
+    "id": 8,
+    "type": "Search",
+    "title": "Travel Search",
+    "description": "A search for a new travel destination.",
+    "date": "2026-09-13",
+    "time": "10:10",
+    "location": "Hyderabad"
+  },
+  {
+    "id": 9,
+    "type": "Personal Note",
+    "title": "Weekend Thoughts",
+    "description": "A personal note written about the weekend.",
+    "date": "2026-09-13",
+    "time": "22:30",
+    "location": "Hyderabad"
+  }
+]
